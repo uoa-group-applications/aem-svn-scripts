@@ -1,7 +1,7 @@
 #!/usr/bin/tclsh
 
 #
-#	Parses the output of: git log --name-status > cms-log-2.txt into a tcl datastructure
+#	Parses the output of: git log --name-status > log.txt into a tcl datastructure
 #
 
 
